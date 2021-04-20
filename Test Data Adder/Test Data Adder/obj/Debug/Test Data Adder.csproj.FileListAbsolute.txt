@@ -1,0 +1,39 @@
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.MainForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.Properties.Resources.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.exe.config
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.exe
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.pdb
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.exe
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.pdb
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ReportForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ScheduleForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.EmailForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.PorductsForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.List.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.ResolveComReference.cache
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ProgressForm.resources
+C:\Users\Noah\source\repos\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.GenerateReportForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.exe.config
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.exe
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\bin\Debug\Test Data Adder.pdb
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csprojAssemblyReference.cache
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.ResolveComReference.cache
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.EmailForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.GenerateReportForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.List.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.MainForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.PorductsForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ProgressForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.Properties.Resources.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ReportForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ScheduleForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.GenerateResource.cache
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.csproj.CoreCompileInputs.cache
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.exe
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test Data Adder.pdb
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ProductInfo.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.ProfileForm.resources
+C:\Users\Noah\media-bazaar-group-7\Test Data Adder\Test Data Adder\obj\Debug\Test_Data_Adder.PermissionRequestForm.resources

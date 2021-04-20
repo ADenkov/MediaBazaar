@@ -1,0 +1,110 @@
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe.config
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.pdb
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.MainForm.resources
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.Properties.Resources.resources
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.exe
+C:\Users\Noah\source\repos\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.pdb
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe.config
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.pdb
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csprojAssemblyReference.cache
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.MainForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.Properties.Resources.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.GenerateResource.cache
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.exe
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.pdb
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountButton.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationsForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.EmployeeListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationEmployeeListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementsForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.CoreCompileInputs.cache
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NoAnnoucements.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewAnnoucementForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrdersForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.StocksForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewProductForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrderListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.ResolveComReference.cache
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductOrderListing.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ConnectionErrorForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.DashboardForm.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.SpecificProductLisitng.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.CalendarFiller.resources
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ChangeSchedule.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe.config
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.pdb
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csprojAssemblyReference.cache
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.ResolveComReference.cache
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountButton.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementsForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.CalendarFiller.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ChangeSchedule.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ConnectionErrorForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.DashboardForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewAnnoucementForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationEmployeeListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.EmployeeListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationsForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.MainForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewProductForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NoAnnoucements.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrderListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrdersForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductOrderListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.Properties.Resources.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationListing.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.SpecificProductLisitng.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.StocksForm.resources
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.GenerateResource.cache
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.CoreCompileInputs.cache
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.exe
+C:\Users\User\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe.config
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\bin\Debug\MediaBazaarApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csprojAssemblyReference.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.ResolveComReference.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AccountButton.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.AnnoucementsForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.CalendarFiller.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ChangeSchedule.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ConnectionErrorForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.DashboardForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewAnnoucementForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationEmployeeListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.EmployeeListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationsForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.MainForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewLocationForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NewProductForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.NoAnnoucements.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrderListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.OrdersForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.ProductOrderListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.Properties.Resources.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.LocationListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.SpecificProductLisitng.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.StocksForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.GenerateResource.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.pdb
+C:\Users\Noah\media-bazaar-group-7\MediaBazaarApp\MediaBazaarApp\obj\Debug\MediaBazaarApp.SupplierForm.resources

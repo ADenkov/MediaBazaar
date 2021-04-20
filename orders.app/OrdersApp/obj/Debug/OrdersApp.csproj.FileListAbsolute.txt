@@ -1,0 +1,113 @@
+C:\Users\User\source\repos\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\User\source\repos\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\User\source\repos\OrdersApp\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Form1.resources
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.pdb
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OrdersApp\OrdersApp\obj\Debug\OrdersApp.CustomersTab.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe.config
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.pdb
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.CustomersTab.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.exe
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.pdb
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.CustomerList.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrdersTab.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ProductList.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+D:\Study\Semester 2\OOD\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrderList.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.CustomerList.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.CustomersTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrderList.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrdersTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ProductList.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.pdb
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe.config
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.exe
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\bin\Debug\OrdersApp.pdb
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.exe
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.pdb
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.OrderControl.resources
+D:\Study\Semester 2\C# project\OrdersApp\OrdersApp\obj\Debug\OrdersApp.ProductsTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.OrderControl.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductsTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\orders.app\OrdersApp\obj\Debug\OrdersApp.pdb
+C:\Users\Noah\Desktop\orders.app\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\Noah\Desktop\orders.app\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\Noah\Desktop\orders.app\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductsTab.resources
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.pdb
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductOrderListing.resources
+C:\Users\Noah\Desktop\orders.app\OrdersApp\obj\Debug\OrdersApp.OrderConrtroller.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.OrderConrtroller.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductOrderListing.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductsTab.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\Noah\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.exe.config
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\bin\Debug\OrdersApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csprojAssemblyReference.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.MainForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ManagementTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.OrderConrtroller.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductOrderListing.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.ProductsTab.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.Properties.Resources.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.GenerateResource.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.exe
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.pdb
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.StatisticsForm.resources
+C:\Users\Tino\Documents\PS CB 03\Project\GIT\media-bazaar-group-7\orders.app\OrdersApp\obj\Debug\OrdersApp.StatisticsInfo.resources

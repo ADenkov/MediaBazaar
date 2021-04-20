@@ -1,0 +1,26 @@
+<style>
+
+header{
+font-family: Impact, Charcoal, sans-serif;
+}
+p {
+font-family: Impact, Charcoal, sans-serif;
+background-color: #F9F9F9;	
+border: 1px solid grey;
+margin-left: 10px;	
+margin-right: 10px;
+}
+body {
+background-color: #EEEEEE;	
+margin-top: 65px;
+margin-left: 247px;	
+}
+
+
+table th {
+    width: auto !important;
+}
+
+
+
+</style>

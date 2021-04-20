@@ -1,0 +1,25 @@
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product Adder.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product_Adder.ProductForm.resources
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product_Adder.Properties.Resources.resources
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product Adder.csproj.GenerateResource.cache
+C:\Users\Noah\source\repos\Product Adder\Product Adder\bin\Debug\Product Adder.exe.config
+C:\Users\Noah\source\repos\Product Adder\Product Adder\bin\Debug\Product Adder.exe
+C:\Users\Noah\source\repos\Product Adder\Product Adder\bin\Debug\Product Adder.pdb
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product Adder.exe
+C:\Users\Noah\source\repos\Product Adder\Product Adder\obj\Debug\Product Adder.pdb
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\bin\Debug\Product Adder.exe.config
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\bin\Debug\Product Adder.exe
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\bin\Debug\Product Adder.pdb
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product Adder.csprojAssemblyReference.cache
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.ProductForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.Properties.Resources.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product Adder.csproj.GenerateResource.cache
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product Adder.csproj.CoreCompileInputs.cache
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product Adder.exe
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product Adder.pdb
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.EmployeeForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.MainForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.AnnoucementForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.EmailTestForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.OrderForm.resources
+C:\Users\Noah\media-bazaar-group-7\Product Adder\Product Adder\obj\Debug\Product_Adder.ScheduleForm.resources

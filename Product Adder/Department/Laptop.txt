@@ -1,0 +1,5 @@
+Screen diagonal (cm / inch): 39.6 cm / 15.6 inch Processor: Intel Core i3-10110U Random access memory: 4 GB Total storage space: 128 GB Graphics Card: Intel UHD Graphics 620
+Screen diagonal (cm / inch): 33.8 cm / 13.3 inches Processor: 1.8 GHz dual-core Intel Core i5 Random access memory: 8 GB Total storage space: 128 GB SSD Graphics Card: HD Graphics 6000
+Screen diagonal (cm / inch): 33.8 cm / 13.3 inches Processor: Intel Core i5-8400 Random access memory: 8 GB Total storage space: 128 GB SSD Graphics Card: Iris Plus Graphics 645
+Screen diagonal (cm / inch): 39.6 cm / 15.6 inch Processor: AMD Ryzen 3 3200U Random access memory: 8 GB Total storage space: 128 SSD + 1 TB HDD Graphics Card: Radeon Vega 3
+Screen diagonal (cm / inch): 39.6 cm / 15.6 inch Processor: Intel Pentium Gold 5405U Random access memory: 4 GB Total storage space: 128 GB SSD Graphics Card: UHD Graphics 610
